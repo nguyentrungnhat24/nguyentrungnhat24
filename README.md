@@ -12,16 +12,20 @@
 * 🌱 Currently learning advanced Flutter & system design
 
 ---
+## 🚀 Tech Stack
 
-## 🛠️ Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart)
+![BLoC](https://img.shields.io/badge/BLoC-State%20Management-blue)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-Scalable-green)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+![REST API](https://img.shields.io/badge/API-REST-green)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
 
-**Mobile Development**
-Flutter, Dart, BLoC, Clean Architecture
 
-**Backend & API**
-Firebase, REST API, Laravel, Flask
-
-**Tools**
+---
+## Tools
 Git, Docker, Firebase, Postman, Figma, CI/CD
 
 ---
@@ -38,6 +42,7 @@ Git, Docker, Firebase, Postman, Figma, CI/CD
 🔗 [Source Code](https://github.com/nguyentrungnhat24/placepals)
 
 ---
+
 
 ## 🔗 Connect with Me
 
